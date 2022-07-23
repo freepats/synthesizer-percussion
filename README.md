@@ -1,11 +1,10 @@
-FreePats synthesizer percussion
--------------------------------
+# FreePats synthesizer percussion
 
 Version 2022-07-18
 
 These sounds had been created by Roberto <roberto@zenvoid.org> with Yoshimi
 and Geonkick free software synthesizers, and edited with Audacity. They are an
-aproximation to drum kit sounds commonly used on vintage electronic music made
+approximation to drumkit sounds commonly used in vintage electronic music made
 with analog synthesizers.
 
 This sound bank, in several formats and qualities, is available on the
