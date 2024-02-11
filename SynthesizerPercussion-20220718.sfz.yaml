@@ -1,0 +1,390 @@
+elements:
+  - type: element
+    name: global
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: no_loop
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '48'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Kick04.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '49'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Kick06.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '50'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Snare09.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '51'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Snare14.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '52'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/ClosedHiHat01-01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '53'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/ClosedHiHat02-01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/OpenHiHat02-01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '55'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Cymbal01-01.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.333333'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '0.666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Cymbal01-02.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lorand
+          value: '0.666666'
+      - type: element
+        name: opcode
+        attributes:
+          name: hirand
+          value: '1'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Cymbal01-03.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-3'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Cymbal02.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '57'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/LowTom02-01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '58'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/LowTom02-02.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '59'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/MidTom02-01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '60'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/MidTom02-02.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '61'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/HighTom02-01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '62'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/HighTom02-02.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '63'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Clap01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-7'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Shaker04.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-4'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/ShakerLong01.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: volume
+          value: '-2'
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/Claves01.ogg
+

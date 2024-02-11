@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<global>
+	<opcode name="ampeg_release" value="100" />
+	<opcode name="loop_mode" value="no_loop" />
+</global>
+<group>
+	<opcode name="key" value="48" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Kick04.ogg" />
+</region>
+<group>
+	<opcode name="key" value="49" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Kick06.ogg" />
+</region>
+<group>
+	<opcode name="key" value="50" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Snare09.ogg" />
+</region>
+<group>
+	<opcode name="key" value="51" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Snare14.ogg" />
+</region>
+<group>
+	<opcode name="key" value="52" />
+</group>
+<region>
+	<opcode name="sample" value="samples/ClosedHiHat01-01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="53" />
+</group>
+<region>
+	<opcode name="sample" value="samples/ClosedHiHat02-01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="54" />
+	<opcode name="volume" value="-2" />
+</group>
+<region>
+	<opcode name="sample" value="samples/OpenHiHat02-01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="55" />
+</group>
+<region>
+	<opcode name="lorand" value="0" />
+	<opcode name="hirand" value="0.333333" />
+	<opcode name="sample" value="samples/Cymbal01-01.ogg" />
+</region>
+<region>
+	<opcode name="lorand" value="0.333333" />
+	<opcode name="hirand" value="0.666666" />
+	<opcode name="sample" value="samples/Cymbal01-02.ogg" />
+</region>
+<region>
+	<opcode name="lorand" value="0.666666" />
+	<opcode name="hirand" value="1" />
+	<opcode name="sample" value="samples/Cymbal01-03.ogg" />
+</region>
+<group>
+	<opcode name="key" value="56" />
+	<opcode name="volume" value="-3" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Cymbal02.ogg" />
+</region>
+<group>
+	<opcode name="key" value="57" />
+</group>
+<region>
+	<opcode name="sample" value="samples/LowTom02-01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="58" />
+</group>
+<region>
+	<opcode name="sample" value="samples/LowTom02-02.ogg" />
+</region>
+<group>
+	<opcode name="key" value="59" />
+</group>
+<region>
+	<opcode name="sample" value="samples/MidTom02-01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="60" />
+</group>
+<region>
+	<opcode name="sample" value="samples/MidTom02-02.ogg" />
+</region>
+<group>
+	<opcode name="key" value="61" />
+</group>
+<region>
+	<opcode name="sample" value="samples/HighTom02-01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="62" />
+</group>
+<region>
+	<opcode name="sample" value="samples/HighTom02-02.ogg" />
+</region>
+<group>
+	<opcode name="key" value="63" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Clap01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="64" />
+	<opcode name="volume" value="-7" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Shaker04.ogg" />
+</region>
+<group>
+	<opcode name="key" value="65" />
+	<opcode name="volume" value="-4" />
+</group>
+<region>
+	<opcode name="sample" value="samples/ShakerLong01.ogg" />
+</region>
+<group>
+	<opcode name="key" value="66" />
+	<opcode name="volume" value="-2" />
+</group>
+<region>
+	<opcode name="sample" value="samples/Claves01.ogg" />
+</region>
